@@ -5,7 +5,7 @@ The Official GitHub for Tutorials and Code Examples on <a href='https://zerodaya
 - 🎮 Gaming
 - 👾 Homebrew
 
-Checkout the Zero Day Arcade Website to <a href="https://zerodayarcade.com/tutorials">Learn from Tutorials</a> and <a href="https://zerodayarcade.com/bounties">Find Bounties</a>
+Checkout the Zero Day Arcade Website to <a href="https://zerodayarcade.com/tutorials">Learn about Reverse Engineering, Gaming Tech, Penetration Testing, Homebrew, and Game Dev.</a>
 
 <!---
 ZeroDayArcade/ZeroDayArcade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
